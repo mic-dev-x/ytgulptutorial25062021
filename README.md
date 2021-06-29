@@ -1,4 +1,4 @@
-# youtube gulp.js tutorial 2021
+# Youtube Gulp.js Tutorial 2021
 Video: https://youtu.be/JQRomtTQv2E
 
 Imagine you want to automate some boring tasks like:
